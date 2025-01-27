@@ -15,3 +15,6 @@ test conflit 2
 test conflit 3
 
 
+squash 1
+squash 2
+squash 3
