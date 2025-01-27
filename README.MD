@@ -11,4 +11,7 @@ premier commit dans la branche 'premiere_branche'
 Apprendre à faire une pull request
 
 test conflit 1
+test conflit 2
 test conflit 3
+
+
