@@ -9,3 +9,5 @@ deuxième commit du cours pour apprendre la commande 'git pull'
 premier commit dans la branche 'premiere_branche'
 
 Apprendre à faire une pull request
+
+test conflit 1
